@@ -11,5 +11,8 @@
     "url": "Nirav0602/dummy-global"
   },
   "author": "Nirav Soni",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^10.0.7"
+  }
 }
